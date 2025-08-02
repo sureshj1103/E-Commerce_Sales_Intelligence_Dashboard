@@ -87,7 +87,7 @@ Drill-down support for customer-level exploration
 ## 🧾 Results & Conclusion
 This dashboard project distills large-scale transactional data into a clear narrative of customer behavior, payment preferences, and category performance. It delivers fast, intuitive insights for managers and marketing teams alike.
 
-
+- <a href="https://github.com/sureshj1103/E-Commerce_Sales_Intelligence_Dashboard/blob/main/Recording%202025-08-03%20010831.mp4">pbix</a>
 https://github.com/sureshj1103/E-Commerce_Sales_Intelligence_Dashboard/blob/main/Recording%202025-08-03%20010831.mp4
 
 ## 🔮 Future Work
