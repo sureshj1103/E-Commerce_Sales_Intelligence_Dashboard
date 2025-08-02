@@ -78,7 +78,7 @@ Dashboard built in Power BI with slicers for:
 Quarter
 State
 Category
-KPIs like total amount, profit, order quantity, average order value
+KPIs like total amount, profit, order quantity, and average order value
 Drill-down support for customer-level exploration
 
 <img width="1341" height="761" alt="image" src="https://github.com/user-attachments/assets/58d7c2ac-a758-4ec4-b4b9-8551b3f41670" />
@@ -88,7 +88,7 @@ Drill-down support for customer-level exploration
 This dashboard project distills large-scale transactional data into a clear narrative of customer behavior, payment preferences, and category performance. It delivers fast, intuitive insights for managers and marketing teams alike.
 
 
-
+https://github.com/sureshj1103/E-Commerce_Sales_Intelligence_Dashboard/blob/main/Recording%202025-08-03%20010831.mp4
 
 ## 🔮 Future Work
 Add predictive models (e.g., sales forecasting)
